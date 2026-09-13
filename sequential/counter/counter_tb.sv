@@ -79,4 +79,4 @@ initial
 		begin
 		$monitor("time=%t,rstn=%b,en=%b,count=%b",$time,rstn,en,count);
 		end
-
+endmodule
